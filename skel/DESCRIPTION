@@ -1,0 +1,10 @@
+Package: BatchExperimentsAnalysis
+Title: Analyze arbitary benchmark experiments.
+Description: Analyze arbitary benchmark experiments.
+Author: Bernd Bischl <bernd_bischl@gmx.net>
+Maintainer: Bernd Bischl <bernd_bischl@gmx.net>
+License: BSD
+Depends: BatchExperiments, ggplot2, benchmark
+LazyData: yes
+ByteCompile: yes
+Version: 1.0
